@@ -1,4 +1,4 @@
-I born in 1990 march 12
+I born in 1990 march 13/13/13/13/13/13/13/13/
 I have done my SSC in 2016
 I have completed my HSC in 2008
 I have completed my BSc in 2016666
@@ -8,5 +8,5 @@ I have started my full stack web development job in 2021.
 
 logo alignment is centered or solved.
 
-
-this text is added from main branch.
+logo alignment is on now right or solved.
+new line is added in feature branch
