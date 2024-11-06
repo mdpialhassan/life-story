@@ -9,4 +9,4 @@ I have started my full stack web development job in 2021.
 logo alignment is centered or solved.
 
 
-this text is added from main branch
+this text is added from main branch.
